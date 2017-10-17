@@ -1,0 +1,35 @@
+.input-group{
+    width: 9.46rem;
+    border: solid 1px #dcdcdc;
+    border-radius: 10px;
+    height: 8rem;
+    margin-top: 0.3rem;
+    padding: 1px 0;
+    box-shadow: 0.12rem 0.12rem 0.12rem #F0EDED;
+}
+.avatar{
+    width: 1.05rem;
+    height: 1.05rem;
+    margin-top: 0.26rem;
+    float: right;
+    margin-right: 0.26rem;
+}
+.inType{
+    font-size: 0.42rem;
+    color: black;
+    height: 100%;
+    width: 20%;
+    line-height: 1.6rem;
+    float: left;
+    margin-left: 0.26rem;
+    text-align: left;
+}
+.grp p{
+    color: gray;
+    height: 1.6rem;
+    line-height: 1.5rem;
+    font-size: 0.37rem;
+    float: right;
+    margin-top:0;
+    margin-right: 0.26rem;
+}

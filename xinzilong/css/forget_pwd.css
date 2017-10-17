@@ -1,0 +1,8 @@
+.input-group{
+    width: 8rem;
+    border: solid 1px gray;
+    border-radius: 10px;
+    height: 6.5rem;
+    padding: 1px 0;
+    box-shadow: 0.16rem 0.16rem 0.16rem #F0EDED;
+}

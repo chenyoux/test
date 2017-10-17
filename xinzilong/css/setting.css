@@ -1,0 +1,67 @@
+.input-group {
+    width: 9.46rem;
+    border: solid 1px #dcdcdc;
+    border-radius: 10px;
+    height: 6.4rem;
+    margin-top: 0.3rem;
+    padding: 1px 0;
+    box-shadow: 0.12rem 0.12rem 0.12rem #F0EDED;
+}
+
+.grp {
+    font-size: 0.42rem;
+    text-align: left;
+    border-bottom: solid 1px #e4e4e4;
+    padding-left: 0.26rem;
+}
+
+.red {
+    margin-top: 1.49rem;
+    margin-left: calc((100% - 8rem) / 2);
+}
+
+.outlogin {
+    width: 100%;
+    height: 17.78rem;
+    position: absolute;
+    top: 0;
+    display: none;
+    opacity: 0.9;
+    padding-top: 7.66rem;
+    padding-left: calc((100% - 5.44rem) / 2);
+    background-color: #999999;
+}
+
+.out-grp {
+    width: 5.44rem;
+    height: 2.93rem;
+    background-color: white;
+    padding-left: 0.26rem;
+    border-radius: 0.13rem;
+    position: fixed;
+    z-index: 5;
+    opacity: 1;
+}
+.out-grp div{
+    width: 100%;
+    height: 1.48rem;
+    text-align: center;
+    line-height: 1.48rem;
+    font-size: 0.37rem;
+
+}
+.out-grp button{
+    width: 2.4rem;
+    height: 0.8rem;
+    color: white;
+    font-size: 0.38rem;
+    border-radius: 0.13rem;
+    border: none;
+}
+.out-grp button :nth-of-type(1){
+    background-color: #aaaaaa;
+}
+.out-grp button:nth-of-type(2){
+    background-color: #d01f3c;
+}
+

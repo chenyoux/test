@@ -1,0 +1,57 @@
+header a {
+    color: #D01F3C;
+}
+.input-group{
+    width: 8rem;
+    border: solid 1px gray;
+    border-radius: 10px;
+    height: 3.3rem;
+    padding: 1px 0;
+    box-shadow: 0.16rem 0.16rem 0.16rem #F0EDED;
+}
+.line-grp{
+    width: 100%;
+    height: 0.38rem;
+    text-align: center;
+    padding: 0 0.26rem;
+    margin-top: 1.87rem;
+
+}
+
+.word2{
+   position: relative;
+    top:-0.4rem;
+    /*top: 0.1rem;*/
+    z-index: 1;
+    background-color: white;
+    font-size: 0.37rem;
+    color: #999999;
+    padding: 0 0.1rem;
+}
+.bit-grp{
+    width:8rem;
+    margin: 1rem auto;
+}
+button{
+    box-shadow: 0.16rem 0.16rem 0.16rem #F0C9D0;
+    background-size: 100% 100%;
+    border: none;
+    border-radius: 50%;
+    outline: none;
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+}
+.weixin{
+    background-image: url("../img@2x/weixin.svg");
+
+}
+.qq{
+    background-image: url("../img@2x/qq.svg");
+    margin: 0 2.1rem;
+}
+.weibo{
+    background-image: url("../img@2x/weibo.svg");
+
+
+}

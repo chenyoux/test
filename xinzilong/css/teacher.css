@@ -1,0 +1,115 @@
+header{
+    box-shadow: none;
+}
+.all-avatar{
+    width: 100%;
+    height: 7.5rem;
+    box-shadow: 0.16rem 0.16rem 0.16rem #F0EDED ;
+}
+.select{
+    width: 100%;
+    height: 1.33rem;
+    margin:5rem auto;
+}
+.select div{
+    display: inline-block;
+    width: 49%;
+    height: 1.33rem;
+    /*color: #D01F3C;*/
+    line-height: 1.33rem;
+    float: left;
+    text-align: center;
+    font-size: 0.42rem;
+}
+.select div section{
+    width: 1.8rem;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+.select div .s1{
+    border-bottom: 3px solid red;
+    color: #D01F3C;
+
+}
+.select div .s2{
+    border-bottom: none;
+}
+
+
+/*===============================*/
+.select-part{
+    margin-left: calc((100% - 94.6%) / 2);
+    margin-right: calc((100% - 94.6%) / 2);
+    width: 94.6%;
+    height: 3.2rem;
+    border: solid 1px #dcdcdc;
+    box-shadow: 0.16rem 0.16rem 0.16rem #F0EDED;
+    border-radius: 0.13rem;
+    margin-top: 0.26rem;
+}
+.select-part .part2 {
+    width: 100%;
+}
+.select-part .part3{
+    width: 100%;
+}
+.select-part .sp .jianjie-grp{
+    width: 75%;
+    float: left;
+    /*height: 0.6rem;*/
+    /*line-height: 0.8rem;*/
+    font-size: 0.37rem;
+    color: #aaaaaa;
+}
+.first-grp{
+    margin-top: 0.62rem;
+}
+.select-part .sp .jianjie-grp span {
+   color: black;
+
+}
+.photos {
+    width: 100%;
+    margin: 0.26rem 0.13rem 0 0.13rem;
+    padding-right: 0.26rem;
+
+}
+.photos td{
+    width: 33.3%;
+    height: 3rem;
+    /*border: solid 1px red;*/
+    padding: 0 0.13rem 0.13rem 0;
+}
+.photos td img{
+    width: 100%;
+    border-radius: 0.13rem;
+}
+.input-icon{
+    width: 0.7rem;
+    height: 0.7rem;
+    margin-right:  0.66rem ;
+    margin-left:  0.53rem;
+    margin-top: calc((3.2rem - 0.7rem) /2);
+    float: left;
+    background-size: 100% 100%;
+}
+.jianjie1{
+    background-image: url("../img@2x/icon_jianjie_dis.png@2x.png");
+}
+.jinli{
+    background-image: url("../img@2x/icon_danrenjiaoguan_dis.png@2x.png");
+}
+.huojiang{
+    background-image: url("../img@2x/icon_huojiang_dis.png@2x.png");
+}
+
+
+
+
+
+
+
+
+
+

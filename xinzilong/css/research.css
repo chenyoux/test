@@ -1,0 +1,28 @@
+.input-group{
+    width: 9.46rem;
+    border: solid 1px #dcdcdc;
+    border-radius: 10px;
+    height: 6.4rem;
+    margin-top: 0.3rem;
+    padding: 1px 0;
+    box-shadow: 0.12rem 0.12rem 0.12rem #F0EDED;
+}
+.grp{
+    font-size:0.42rem;
+    text-align: left;
+    border-bottom: solid 1px #e4e4e4;
+    padding-left: 0.26rem;
+    padding-bottom: 0.05rem;
+}
+.red{
+    margin-top: 1.49rem;
+    margin-left: calc((100% - 9rem) / 2);
+}
+.yanzhm{
+    background-image: url("../img@2x/yanzma.png");
+    background-size: 100% 100%;
+    width: 2rem;
+    height:1rem;
+    float: right;
+    margin: 0.3rem 0.26rem;
+}
